@@ -41,15 +41,15 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="240">
+              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
-                <element signature="e#7429#7433#0" expanded="true" />
-                <element signature="e#7443#7449#0" expanded="true" />
-                <element signature="e#7474#7480#0" expanded="true" />
-                <element signature="e#7485#7491#0" expanded="true" />
-                <element signature="e#7501#7507#0" expanded="true" />
-                <element signature="e#7507#7511#0" expanded="true" />
+                <element signature="e#7428#7432#0" expanded="true" />
+                <element signature="e#7442#7448#0" expanded="true" />
+                <element signature="e#7473#7479#0" expanded="true" />
+                <element signature="e#7484#7490#0" expanded="true" />
+                <element signature="e#7500#7506#0" expanded="true" />
+                <element signature="e#7506#7510#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,6 +164,8 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../spring-boot-01-quick" />
   </component>
   <component name="GradleLocalSettings">
@@ -1232,7 +1234,7 @@
       <workItem from="1544059720960" duration="613000" />
       <workItem from="1544432060117" duration="112000" />
       <workItem from="1546585772074" duration="6430000" />
-      <workItem from="1546915583875" duration="4966000" />
+      <workItem from="1546915583875" duration="5758000" />
     </task>
     <task id="LOCAL-00001" summary="spring boot demo">
       <created>1546915796008</created>
@@ -1290,7 +1292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546927454034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="spring boot demo">
+      <created>1546948292083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1546948292083</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1326,7 +1335,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127334000" />
+    <option name="totallyTimeSpent" value="128126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -1350,8 +1359,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50396377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3657984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2805794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.66364664" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2805794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1770,15 +1779,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state relative-caret-position="240">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
-            <element signature="e#7429#7433#0" expanded="true" />
-            <element signature="e#7443#7449#0" expanded="true" />
-            <element signature="e#7474#7480#0" expanded="true" />
-            <element signature="e#7485#7491#0" expanded="true" />
-            <element signature="e#7501#7507#0" expanded="true" />
-            <element signature="e#7507#7511#0" expanded="true" />
+            <element signature="e#7428#7432#0" expanded="true" />
+            <element signature="e#7442#7448#0" expanded="true" />
+            <element signature="e#7473#7479#0" expanded="true" />
+            <element signature="e#7484#7490#0" expanded="true" />
+            <element signature="e#7500#7506#0" expanded="true" />
+            <element signature="e#7506#7510#0" expanded="true" />
           </folding>
         </state>
       </provider>
