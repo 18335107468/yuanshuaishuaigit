@@ -42,12 +42,12 @@
             <state relative-caret-position="90">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <element signature="e#7405#7409#0" expanded="true" />
-                <element signature="e#7419#7425#0" expanded="true" />
-                <element signature="e#7450#7456#0" expanded="true" />
-                <element signature="e#7461#7467#0" expanded="true" />
-                <element signature="e#7477#7483#0" expanded="true" />
-                <element signature="e#7483#7487#0" expanded="true" />
+                <element signature="e#7217#7221#0" expanded="true" />
+                <element signature="e#7231#7237#0" expanded="true" />
+                <element signature="e#7262#7268#0" expanded="true" />
+                <element signature="e#7273#7279#0" expanded="true" />
+                <element signature="e#7289#7295#0" expanded="true" />
+                <element signature="e#7295#7299#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,6 +165,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../spring-boot-01-quick" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -1232,7 +1235,7 @@
       <workItem from="1544059720960" duration="613000" />
       <workItem from="1544432060117" duration="112000" />
       <workItem from="1546585772074" duration="6430000" />
-      <workItem from="1546915583875" duration="559000" />
+      <workItem from="1546915583875" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="spring boot demo">
       <created>1546915796008</created>
@@ -1248,7 +1251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546915940099</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="spring boot demo">
+      <created>1546916150805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546916150805</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1284,7 +1294,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122927000" />
+    <option name="totallyTimeSpent" value="122971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -1732,12 +1742,12 @@
         <state relative-caret-position="90">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <element signature="e#7405#7409#0" expanded="true" />
-            <element signature="e#7419#7425#0" expanded="true" />
-            <element signature="e#7450#7456#0" expanded="true" />
-            <element signature="e#7461#7467#0" expanded="true" />
-            <element signature="e#7477#7483#0" expanded="true" />
-            <element signature="e#7483#7487#0" expanded="true" />
+            <element signature="e#7217#7221#0" expanded="true" />
+            <element signature="e#7231#7237#0" expanded="true" />
+            <element signature="e#7262#7268#0" expanded="true" />
+            <element signature="e#7273#7279#0" expanded="true" />
+            <element signature="e#7289#7295#0" expanded="true" />
+            <element signature="e#7295#7299#0" expanded="true" />
           </folding>
         </state>
       </provider>
