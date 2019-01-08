@@ -1,0 +1,12 @@
+#person:
+   #lastName: 张三
+  # age: 18
+  # boss: false
+ #  birth: 2018/11/19
+ #  maps: {k1: v1,k2: v2}
+  # lists:
+  #   - lishi
+  #   - zhaolin
+  # dog:
+  #   name: wangwang
+   #  age: 2
