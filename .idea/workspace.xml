@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1766e6b5-8902-4b08-b6c1-42fc1b69ba93" name="Default" comment="spring boot demo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/deployment.xml" />
+    <list default="true" id="1766e6b5-8902-4b08-b6c1-42fc1b69ba93" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../spring-boot-01-quick/out/" />
@@ -43,12 +42,12 @@
             <state relative-caret-position="90">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <element signature="e#7534#7538#0" expanded="true" />
-                <element signature="e#7548#7554#0" expanded="true" />
-                <element signature="e#7579#7585#0" expanded="true" />
-                <element signature="e#7590#7596#0" expanded="true" />
-                <element signature="e#7606#7612#0" expanded="true" />
-                <element signature="e#7612#7616#0" expanded="true" />
+                <element signature="e#7405#7409#0" expanded="true" />
+                <element signature="e#7419#7425#0" expanded="true" />
+                <element signature="e#7450#7456#0" expanded="true" />
+                <element signature="e#7461#7467#0" expanded="true" />
+                <element signature="e#7477#7483#0" expanded="true" />
+                <element signature="e#7483#7487#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1233,7 +1232,7 @@
       <workItem from="1544059720960" duration="613000" />
       <workItem from="1544432060117" duration="112000" />
       <workItem from="1546585772074" duration="6430000" />
-      <workItem from="1546915583875" duration="351000" />
+      <workItem from="1546915583875" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="spring boot demo">
       <created>1546915796008</created>
@@ -1242,7 +1241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546915796008</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="spring boot demo">
+      <created>1546915940099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546915940099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1278,7 +1284,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122719000" />
+    <option name="totallyTimeSpent" value="122927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -1726,12 +1732,12 @@
         <state relative-caret-position="90">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <element signature="e#7534#7538#0" expanded="true" />
-            <element signature="e#7548#7554#0" expanded="true" />
-            <element signature="e#7579#7585#0" expanded="true" />
-            <element signature="e#7590#7596#0" expanded="true" />
-            <element signature="e#7606#7612#0" expanded="true" />
-            <element signature="e#7612#7616#0" expanded="true" />
+            <element signature="e#7405#7409#0" expanded="true" />
+            <element signature="e#7419#7425#0" expanded="true" />
+            <element signature="e#7450#7456#0" expanded="true" />
+            <element signature="e#7461#7467#0" expanded="true" />
+            <element signature="e#7477#7483#0" expanded="true" />
+            <element signature="e#7483#7487#0" expanded="true" />
           </folding>
         </state>
       </provider>
