@@ -1,160 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1766e6b5-8902-4b08-b6c1-42fc1b69ba93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/0/3/0399c24d74d6a0d05a28a2cee30e4c056171f02d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/0/6/06f65155ec73600b9fc5c4dc2883d4bb84d8e284" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/0/f/0f1639ebf22c3b17f44738960a0e949b3a667b40" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/3/4/344325cabec33dc3f2399c9cac74276f533c0eca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/3/8/3892db7550be5328d7a5bf2f41150524e020b99f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/3/d/3dc1e36220c2febed9c829239434666548b5218b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/5/3/53f698bf48844bb15c2ccaf872156d43d052fb62" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/5/7/57bcf435874ecc33093eb1d491f5591155504b6b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/6/2/62a7a25964661f61273fbc7dfaa03e1486c5dd7e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/6/3/635bb144670d145984c35bc435d852db6653b8b8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/6/6/6649a12a6a41c10fd754f40a3b0b03b9013bde64" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/7/c/7c7108eae34d26b84e18badb2d438717b07ad8a9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/8/5/85afa3cb5c8491cc2b7d3e21253c38339a11fcee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/8/c/8c7493ccd9316df21671b5388389f38f18557812" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/9/9/994cdc41005b7a574afe82bcc3ec08be325eac0c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/9/b/9b5dcd63a166d577175f4c8533e747203fb1936e" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/9/d/9d393c608e97114fc21673cd38e0a389c7dcf532" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/a/2/a272b8ace93b5c820167ff3ad004180e89ab5b4f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/a/6/a6d8b8556fee0e03112ce2bf34b8cb27a7dc9e58" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/b/0/b0baa5183b437b983e13a3b184f7b7185265d87f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/b/8/b8447209a335174a7fad7137d847558e37172a12" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/c/1/c1c6b69d7a3f9b17f01084d718edd40f3b2aa82b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/c/3/c37467157e01027b51d4a92acec42e9af665ad9b" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/c/3/c3870ccf11747ec96540e40132aacf0720a729f8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/c/8/c86b56867cdaee0bad1f2b9b4ad4ee1f328c548d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/c/a/ca98b3d9b3b9a320735801f7834f1dfed4412efa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/d/5/d5ba7a0b9e97b119e29ddfee4cb953f6a282f6c7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/e/1/e14d1ecab681c9c703983030cf857ac7d363c3a7" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/e/9/e9495f1bd4e854f1c08950c7da2427a9403a7351" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/e/b/eb47d1f96821d703e320dd49b7a5983a72efc06f" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/e/e/ee809c68eeed03cb203fcf3ae988cfc857c7270c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/e/e/eea1b68004d973d8cd2edcdd371b6a29539ecf60" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/f/2/f2d9f811e4303c68e44fe2229379504711eda007" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/sonarlint/issuestore/index.pb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_expression_processor_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_attoparser_attoparser_2_0_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_3_0_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_unbescape_unbescape_1_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_webjars_bootstrap_4_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_webjars_jquery_3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_webjars_npm_popper_js_1_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/spring-boot-01-quick.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/EmpController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/HelloService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/LoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/MyExceptionHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/SpringBoot01QuickApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/component/LoginHandlerInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/component/MyErrorAttributes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/component/MyLocaleResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/config/MyAppConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/config/MyMvcConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/dao/DepartmentDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/dao/EmployeeDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/dto/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/dto/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/entities/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/entities/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/exception/UserNotExistException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/application-dev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/application-pro.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/application-test.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/i18n/login.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/i18n/login_en_US.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/i18n/login_zh_CN.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/person.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/css/dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/css/signin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/img/bootstrap-solid.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/js/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/js/feather.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/static/asserts/js/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/common/bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/emp/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/emp/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/error/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/error/4xx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/error/5xx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/success.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/src/test/java/com/yuan/SpringBoot01QuickApplicationTests.java" />
+    <list default="true" id="1766e6b5-8902-4b08-b6c1-42fc1b69ba93" name="Default" comment="spring boot demo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../spring-boot-01-quick/out/" />
     <ignored path="$PROJECT_DIR$/../spring-boot-01-quick/target/" />
@@ -178,12 +27,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <element signature="e#7534#7538#0" expanded="true" />
+                <element signature="e#7548#7554#0" expanded="true" />
+                <element signature="e#7579#7585#0" expanded="true" />
+                <element signature="e#7590#7596#0" expanded="true" />
+                <element signature="e#7606#7612#0" expanded="true" />
+                <element signature="e#7612#7616#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -309,7 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../maven/demo-maven/repository/org/springframework/boot/spring-boot-starter-thymeleaf/2.1.0.RELEASE/spring-boot-starter-thymeleaf-2.1.0.RELEASE.pom" />
         <option value="$PROJECT_DIR$/../maven/demo-maven/repository/org/springframework/boot/spring-boot-starter-parent/2.1.0.RELEASE/spring-boot-starter-parent-2.1.0.RELEASE.pom" />
         <option value="$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/templates/success.html" />
         <option value="$PROJECT_DIR$/../maven/demo-maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE.jar!/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.class" />
@@ -360,6 +225,7 @@
         <option value="$PROJECT_DIR$/../maven/demo-maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class" />
         <option value="$PROJECT_DIR$/../spring-boot-01-quick/pom.xml" />
         <option value="$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -386,7 +252,9 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -816,6 +684,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1364,8 +1233,16 @@
       <workItem from="1544059720960" duration="613000" />
       <workItem from="1544432060117" duration="112000" />
       <workItem from="1546585772074" duration="6430000" />
-      <workItem from="1546915583875" duration="160000" />
+      <workItem from="1546915583875" duration="351000" />
     </task>
+    <task id="LOCAL-00001" summary="spring boot demo">
+      <created>1546915796008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546915796008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1401,10 +1278,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122528000" />
+    <option name="totallyTimeSpent" value="122719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1426,7 +1304,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50396377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2805794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2805794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1445,6 +1323,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="spring boot demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring boot demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1476,13 +1360,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/application-dev.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/src/main/resources/application-pro.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1838,9 +1715,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/src/main/java/com/yuan/Controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-boot-01-quick/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#7534#7538#0" expanded="true" />
+            <element signature="e#7548#7554#0" expanded="true" />
+            <element signature="e#7579#7585#0" expanded="true" />
+            <element signature="e#7590#7596#0" expanded="true" />
+            <element signature="e#7606#7612#0" expanded="true" />
+            <element signature="e#7612#7616#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
